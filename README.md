@@ -1,7 +1,8 @@
 ### Hi there, I'm Matt!
 
 I'm a PhD student in the GPS and Vehicle Dynamics Lab (GAVLab) at Auburn.
-My work focuses on state estimation, particularly for GPS-denied situations.
+My research focus is state estimation for GPS-denied vehicles, so I'm more-or-less a Kalman Filter + extras guy.
+I've done a lot of work with cameras and LIDARs!
 
 <!--
 **mattboler/mattboler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 
