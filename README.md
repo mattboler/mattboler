@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Matt!
+
+I'm a PhD student in the GPS and Vehicle Dynamics Lab (GAVLab) at Auburn.
+My work focuses on state estimation, particularly for GPS-denied situations.
 
 <!--
 **mattboler/mattboler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 
